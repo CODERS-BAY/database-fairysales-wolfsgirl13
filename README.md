@@ -1,5 +1,5 @@
 # database_fairysales
-1.) Instanzen haben einen Instanz-Namen. Dieser soll aus maximal 42 alphanumerischen Zeichen bestehen.
+1.) Instanzen haben einen Instanz-Namen. Dieser soll aus maximal 42 alphanumerischen Zeichen bestehen. 
 2.) Dateien werden vom System umbenannt (originalName zu storageName). StorageNames sollen aus maximal 30 alphanumerischen Zeichen bestehen.
 3.) Entfernen Sie den Eintrag (f_entries) mit der headline „Casestudy1“. Sollten andere Tabellen auf diesen Eintrag referenzieren, sorgen sie dafür, dass auch dort die entsprechenden Inhalte entfernt werden.
 4.) Selektieren Sie alle Datei-Lösch aktionen aus dem Log. Dateilöschungen erkennen Sie am scope.
